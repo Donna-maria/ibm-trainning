@@ -1,0 +1,2 @@
+module Pallindrome1 {
+}
